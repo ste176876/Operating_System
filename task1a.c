@@ -14,6 +14,7 @@ int main(){
     struct element * last = NULL;
     generateProLL(&top, &last);
     printf("Hello");
+    printf("Hello again");  // change
     return 0;
 }
 
